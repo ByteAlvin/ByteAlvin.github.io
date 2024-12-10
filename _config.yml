@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Shenao Liu"
 title_separator          : "-"
-name                     : Ding Jianrong # &name "Your Name"
+name                     : Liu Shenao # &name "Your Name"
 description              : &description "personal description"
 url                      : https://bytealvin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
