@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jianrong Ding"
+title                    : "Shenao Liu"
 title_separator          : "-"
 name                     : Ding Jianrong # &name "Your Name"
 description              : &description "personal description"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "丁健容"
-  avatar           : "self-photo.jpg"
+  name             : "刘申澳"
+  avatar           : "Alvin.jpg"
   bio              : "Hi, this is Jianrong Ding."
   location         : "Shanghai, China"
   employer         :
