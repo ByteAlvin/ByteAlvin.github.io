@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jianrong Ding"
+title                    : "Shenao Liu"
 title_separator          : "-"
-name                     : Ding Jianrong # &name "Your Name"
+name                     : Liu Shenao # &name "Your Name"
 description              : &description "personal description"
-url                      : https://rafaDD.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://bytealvin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "RafaDD/rafaDD.github.io"
+repository               : "ByteAlvin/ByteAlvin.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "丁健容"
-  avatar           : "self-photo.jpg"
-  bio              : "Hi, this is Jianrong Ding."
-  location         : "Shanghai, China"
+  name             : "刘申澳"
+  avatar           : "Alvin.jpg"
+  bio              : "Hi, this is Shenao Liu."
+  location         : "Beijing, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : https://scholar.google.com/citations?user=O-xoSwUAAAAJ&hl=en # "http://yourfullgooglescholarurl.com"
-  email            : rafaelding@sjtu.edu.cn
+  email            : shenaoliu@163.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RafaDD"
+  github           : "ByteAlvin"
   google_plus      :
   keybase          :
   instagram        :
