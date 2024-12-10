@@ -16,7 +16,7 @@ I am an undergraduate student from Shanghai Jiao Tong University, majoring in ar
 <h2 style="margin-top: 1px">Education</h2>
 
 <div style="display: flex; align-items: center; padding: 5px 0 5px 10px; margin: 5px 0;">
-    <img src="/images/sjtu.png" alt="Education Icon" style="width: 70px; height: 70px; margin-right: 10px; margin-bottom: 10px; object-fit: fill;">
+    <img src="/images/UCAS.png" alt="Education Icon" style="width: 70px; height: 70px; margin-right: 10px; margin-bottom: 10px; object-fit: fill;">
     <div>
         <h3 style="margin: 0; font-size: 0.9em;">Shanghai Jiao Tong University</h3>
         <p style="margin: 5px 0; color: #444; font-size: 0.8em;">Bachelor in Artificial Intelligence (Honor Class)</p>
@@ -26,7 +26,7 @@ I am an undergraduate student from Shanghai Jiao Tong University, majoring in ar
 
 
 <div style="display: flex; align-items: center; padding: 5px 0 5px 10px; margin: 5px 0;">
-    <img src="/images/nsfz.png" alt="Education Icon" style="width: 70px; height: 70px; margin-right: 10px; margin-bottom: 10px; object-fit: fill;">
+    <img src="/images/ZSTU.png" alt="Education Icon" style="width: 70px; height: 70px; margin-right: 10px; margin-bottom: 10px; object-fit: fill;">
     <div>
         <h3 style="margin: 0; font-size: 0.9em;">High School Affiliated to Nanjing Normal University</h3>
         <p style="margin: 5px 0; color: #444; font-size: 0.8em;">High School</p>
